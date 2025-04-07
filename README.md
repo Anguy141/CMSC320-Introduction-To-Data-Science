@@ -1,4 +1,4 @@
-# Anguy141.github.io
+# CMSC320 Introduction to Data Science Final Project
 
 This Contain the final project for my CMSC320 Introduction to Data Science Class.
 
